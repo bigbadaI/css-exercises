@@ -1,0 +1,15 @@
+.bkgrd {
+  background-color: pink;
+}
+.text {
+  font-size: 25px;
+}
+#one {
+  font-size: 35px;
+  color: blue;
+}
+#two {
+  background-color: greenyellow;
+  font-weight: bold;
+  font-size: 25px;
+}
